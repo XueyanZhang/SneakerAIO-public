@@ -1,0 +1,12 @@
+{
+    "email": "sss@gmail.com",
+    "password": "sss",
+    "size": "11",
+    "card_number": "",
+    "expiry_MMYY": "",
+    "cvv": "000",
+    "login_url": "https://www.nike.com/ca/login",
+    "product_url": "https://www.nike.com/ca/launch/t/air-jordan-1-hyper-royal",
+    "release_time": "2021-04-17 06:00:00",
+    "driver_type": "Firefox"
+}
